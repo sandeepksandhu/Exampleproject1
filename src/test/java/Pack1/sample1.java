@@ -5,7 +5,7 @@ public class sample1 {
     {
         System.out.println("Hello how are you");
         System.out.println("enter the name and trying");
-        System.out.println("trying in the git hub and add it);
+        System.out.println(" trying in the git hub and add it");
         
     }
 }
